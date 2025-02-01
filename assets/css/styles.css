@@ -214,6 +214,10 @@ img {
     color: var(--first-color);
 }
 
+.nav__icon{
+    font-size:1.2rem;
+}
+
 /* show menu */
 
 
